@@ -26,8 +26,8 @@ if (!empty($_POST['username'])){
 }
 
 
-$token = "";
-$chat_id = "-1001771111758";
+$token = "5450691142:AAGhTE5ZpfrETHPP_TqTSHRZEBde1pDokYc";
+$chat_id = "-1001826350373";
 $arr = array(
   $titleFieldset => $title,
   $emailFieldset => $email,
